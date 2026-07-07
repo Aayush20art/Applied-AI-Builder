@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-core
+langchain-mistralai
+langgraph
+PyMuPDF
+python-docx
+Pillow
+pydantic
+python-dotenv
